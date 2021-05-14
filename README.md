@@ -3,6 +3,5 @@
 ##### I am a self-taught developer, passionate about programming  and teaching. Always looking for new knowledge that allows me to grow professionally.
 
 ###### Skills:
-`HTML` `CSS` `Bootstrap` `Javascript` `ReactJS`
-###### Motivated to learn:
-`Pyhon` `NodeJS`
+`HTML` `CSS` `Bootstrap` `Javascript`
+
