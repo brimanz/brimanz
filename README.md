@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone... My name is Jonathan Briceño</h1>
-<h3 align="center">Passionate about programming | Cybersecurity Enthusiast | Always looking for new knowledge</h3>
+<h3 align="center"> Frontend Developer |Passionate about programming | Cybersecurity Enthusiast.</h3>
 
 - 🌱 I’m currently learning: **Python**
 
