@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone... My name is Jonathan Briceño</h1>
 <h3 align="center"> Web Developer | Passionate about blockchain development | Cybersecurity Enthusiast.</h3>
 
-- 🌱 I’m currently learning: **Python & Solidity**
+- 🌱 I’m currently learning: **C# & Solidity**
 
 - 📄 Know about my experiences: I am a Computer Engineer with work experience in the IT sector in the areas of information security and frontend web development, with solid knowledge of agile methodologies (SCRUM), always willing to work as a team to achieve the established objectives. Passionate about programming and always looking for new knowledge that will allow me to grow professionally and improve my skills as a developer. 
 
