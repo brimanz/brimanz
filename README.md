@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone... My name is Jonathan Briceño</h1>
-<h3 align="center"> Web Developer | Passionate about blockchain development | Cybersecurity Enthusiast.</h3>
+<h3 align="center"> Frontend and React Developer | Passionate about blockchain development | Cybersecurity Enthusiast.</h3>
 
 - 🌱 I’m currently learning: **Python & Solidity**
 
