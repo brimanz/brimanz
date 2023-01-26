@@ -25,7 +25,7 @@ console.log(Salute, info + "I'm Frontend Developer");
 ### My skills:
 
 ##### Frontend: 
-###### <img src="https://img.shields.io/badge/-react-blue" alt="React" height="20" /> <img src="https://img.shields.io/badge/-gatsby-purple" alt="React" height="20" /> <img src="https://img.shields.io/badge/-javascript-yellow" alt="React" height="20" /> <img src="https://img.shields.io/badge/-redux-purple" alt="React" height="20" /> <img src="https://img.shields.io/badge/-sass-violet" alt="React" height="20" /> <img src="https://img.shields.io/badge/-bootstrap-magenta" alt="React" height="20" /> <img src="https://img.shields.io/badge/-html-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-css-blue" alt="React" height="20" />
+###### <img src="https://img.shields.io/badge/-react-blue" alt="React" height="20" /> <img src="https://img.shields.io/badge/-gatsby-purple" alt="React" height="20" /> <img src="https://img.shields.io/badge/-javascript-yellow" alt="React" height="20" /> <img src="https://img.shields.io/badge/-redux-purple" alt="React" height="20" /> <img src="https://img.shields.io/badge/-sass-violet" alt="React" height="20" /> <img src="https://img.shields.io/badge/-bootstrap-violet" alt="React" height="20" /> <img src="https://img.shields.io/badge/-html-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-css-blue" alt="React" height="20" />
 
 ##### Blockchain: 
 ###### <img src="https://img.shields.io/badge/-solidity-gray" alt="React" height="20" /> <img src="https://img.shields.io/badge/-truffle-brown" alt="React" height="20" /> <img src="https://img.shields.io/badge/-ganache-yellow" alt="React" height="20" />
