@@ -30,7 +30,7 @@ console.log(Salute, info + "I'm Frontend Developer");
 ##### Blockchain: 
 ###### <img src="https://img.shields.io/badge/-solidity-gray" alt="React" height="20" /> <img src="https://img.shields.io/badge/-truffle-brown" alt="React" height="20" /> <img src="https://img.shields.io/badge/-ganache-yellow" alt="React" height="20" />
 ##### Tools: 
-###### <img src="https://img.shields.io/badge/-git-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-linux-black" alt="React" height="20" /> <img src="https://img.shields.io/badge/-sonarcloud-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-codacy-blue" alt="React" height="20" /> <img src="https://img.shields.io/badge/-figma-red" alt="React" height="20" />
+###### <img src="https://img.shields.io/badge/-git-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-linux-black" alt="React" height="20" /> <img src="https://img.shields.io/badge/-sonarcloud-orange" alt="React" height="20" /> <img src="https://img.shields.io/badge/-figma-red" alt="React" height="20" />
 
 ##### Learning: 
 ###### <img src="https://img.shields.io/badge/-python-blue" alt="React" height="20" /> <img src="https://img.shields.io/badge/-flask-black" alt="React" height="20" />
