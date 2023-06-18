@@ -17,7 +17,7 @@ console.log(Salute, info + "I'm Frontend Developer");
     <img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"     height="30" /> 
 </a>
 
-<a href="https://jonathan-briceno.netlify.app/">
+<a href="https://jonathan-briceno.vercel.app/">
     <img src="https://img.shields.io/badge/-website-black" alt="linkedin"     height="30" /> 
 </a>
 
