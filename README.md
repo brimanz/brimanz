@@ -12,11 +12,11 @@ console.log(Salute, info + "I'm Frontend Developer");
 
 
 <a href="https://www.linkedin.com/in/brimanz-frontend/">
-    <img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"     height="30" /> 
+    <img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin" height="30" /> 
 </a>
 
 <a href="https://jonathan-briceno.vercel.app/">
-    <img src="https://img.shields.io/badge/-website-black" alt="linkedin" height="30" /> 
+    <img src="https://img.shields.io/badge/-website-black" alt="linkedin" height="30"/> 
 </a>
 
 
