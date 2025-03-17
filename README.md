@@ -17,7 +17,7 @@ print("Salute", I'm Data Analyst)
 
 
 ### My skills.
-###### Technical: Python, Excel, SQL, Tableau, Git, Javascript.
-###### No-Technical: Analytical capacity, Creativity, Troubleshooting, Assertive communication.
-###### Learning: Machine Learning, Artificial intelligence
+###### Hard: Python, Excel, SQL, Tableau, Git, Javascript.
+###### Soft: Analytical capacity, Creativity, Troubleshooting, Assertive communication.
+###### Learning: Machine Learning, Business Intelligence.
 
